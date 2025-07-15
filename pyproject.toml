@@ -1,0 +1,9 @@
+[project]
+name = "water-reconciler"
+version = "0.1.0"
+description = "Simple ML based solution to reconcile water usage based on previous consumption pattern"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.3.1",
+]
